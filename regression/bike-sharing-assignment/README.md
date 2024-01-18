@@ -1,6 +1,8 @@
 # Forecast Hourly Bike Rental Demand
 
-Problem Statement
+<a href='https://github.com/azkar7307/machine-learning-portfolio-projects/blob/main/regression/bike-sharing-assignment/data/Problem%20Statement.pdf'> Problem Statement </a>
+
+<a href='https://github.com/azkar7307/machine-learning-portfolio-projects/blob/main/regression/bike-sharing-assignment/notebooks/bike_sharing_demand_prediction.ipynbhttps://github.com/azkar7307/machine-learning-portfolio-projects/blob/main/regression/bike-sharing-assignment/notebooks/bike_sharing_demand_prediction.ipynb'> Notebook </a>
 
 ## Summary
 
