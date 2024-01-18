@@ -14,7 +14,7 @@ During exploratory data analysis, the following insights were found:
 
 - Summer and fall seasons have higher bike rentals per hour than spring and winter seasons, on average.
 
-Hourly bike demand is heavily influenced by weather conditions. A good weather condition increases bike demand hourly, while a bad weather condition decreases it.
+- Hourly bike demand is heavily influenced by weather conditions. A good weather condition increases bike demand hourly, while a bad weather condition decreases it.
 
 - Holidays and working days have almost no effect on the hourly bike demand.
 
